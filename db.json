@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first name": "dani",
+            "last name": "danon"
+        },
+        {
+            "id": 2,
+            "first name": "roni",
+            "last name": "plk"
+        },
+        {
+            "id": 3,
+            "first name": "cris",
+            "last name": "cr7"
+        },
+        {
+            "id": 4,
+            "first name": "kobi",
+            "last name": "cohen"
+        },
+        {
+            "id": 5,
+            "first name": "nir",
+            "last name": "elmaliah"
+        }
+     
+    ]
+}
